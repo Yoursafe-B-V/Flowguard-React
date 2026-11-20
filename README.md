@@ -2,6 +2,12 @@
 
 React checkout that mounts Yoursafe Flowguard card fields from a session id.
 
+The Flowguard guides are on [Yoursafe integrations](https://integrations.yoursafe.com/en/flowguard/overview):
+
+- [Getting Started](https://integrations.yoursafe.com/en/getting-started/flowguard)
+- [SDK](https://integrations.yoursafe.com/en/flowguard)
+- [API](https://integrations.yoursafe.com/en/flowguard-api)
+
 Load the SDK before the app:
 
 ```html
